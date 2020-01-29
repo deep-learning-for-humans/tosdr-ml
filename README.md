@@ -1,4 +1,4 @@
-# cuddly-robot
+# ToS;DR-ML
 *Machine Learning for Terms of Service*
 
 Do you really read the terms of service presented by various services on the internet? Or do you just scroll to the bottom and click **"I Agree"**?
